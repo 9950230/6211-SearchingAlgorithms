@@ -1,0 +1,7 @@
+C:\Users\9950230\source\repos\6211-SearchingAlgorithms\6211-SearchingAlgorithms\bin\Debug\6211-SearchingAlgorithms.exe.config
+C:\Users\9950230\source\repos\6211-SearchingAlgorithms\6211-SearchingAlgorithms\bin\Debug\6211-SearchingAlgorithms.exe
+C:\Users\9950230\source\repos\6211-SearchingAlgorithms\6211-SearchingAlgorithms\bin\Debug\6211-SearchingAlgorithms.pdb
+C:\Users\9950230\source\repos\6211-SearchingAlgorithms\6211-SearchingAlgorithms\obj\Debug\6211-SearchingAlgorithms.csprojAssemblyReference.cache
+C:\Users\9950230\source\repos\6211-SearchingAlgorithms\6211-SearchingAlgorithms\obj\Debug\6211-SearchingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\9950230\source\repos\6211-SearchingAlgorithms\6211-SearchingAlgorithms\obj\Debug\6211-SearchingAlgorithms.exe
+C:\Users\9950230\source\repos\6211-SearchingAlgorithms\6211-SearchingAlgorithms\obj\Debug\6211-SearchingAlgorithms.pdb
